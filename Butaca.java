@@ -4,10 +4,10 @@
  * descartado). Ademas contendra un numero unico de identificacion.
  * @version 1.0.0
  * @author Maximiliano Brullo/
- * N1/
- * N2/
- * N3/
- * N4
+ * Nombre1/
+ * Nombre2/
+ * Nombre3/
+ * Nombre4
  */
 public class Butaca
 {
