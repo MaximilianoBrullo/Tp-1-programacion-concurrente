@@ -94,10 +94,6 @@ public class Butaca
     }
 
     public void setN(Integer n){
-        this.n = n;
-    }
-
-    public void setNTo4(){
-        this.n = 4;
+        this.numero = n;
     }
 }
