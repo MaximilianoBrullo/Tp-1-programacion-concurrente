@@ -92,4 +92,8 @@ public class Butaca
         descartado = false;
         checked = true;
     }
+
+    public void setN(Integer n){
+        this.n = n;
+    }
 }
