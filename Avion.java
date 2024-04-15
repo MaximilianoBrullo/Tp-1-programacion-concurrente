@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 public class Avion
 {
-    Butaca butaca;
+    Butaca butaca;  //Prueba
     ArrayList<Butaca> butacas;
     public Avion(){
         butacas = new ArrayList<Butaca>();
