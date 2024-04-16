@@ -65,5 +65,5 @@ public class Avion
     
     public Boolean verificarChecked(Butaca butaca){
         return butaca.getChecked();
-    }
+    }//prueba de develop
 }
